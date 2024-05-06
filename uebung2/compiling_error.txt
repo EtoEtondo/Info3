@@ -1,0 +1,3 @@
+/tmp/ccTRZn6v.o: In Funktion »main«:
+a2.cpp:(.text+0x31): Warnung: undefinierter Verweis auf »randInt()«
+collect2: error: ld returned 1 exit status
